@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/demosite/static/css/main.a1a9e76d.chunk.css",
+    "main.js": "/demosite/static/js/main.ffb2ed1f.chunk.js",
+    "main.js.map": "/demosite/static/js/main.ffb2ed1f.chunk.js.map",
+    "runtime-main.js": "/demosite/static/js/runtime-main.b2f19479.js",
+    "runtime-main.js.map": "/demosite/static/js/runtime-main.b2f19479.js.map",
+    "static/css/2.1c2038bd.chunk.css": "/demosite/static/css/2.1c2038bd.chunk.css",
+    "static/js/2.50d39ed2.chunk.js": "/demosite/static/js/2.50d39ed2.chunk.js",
+    "static/js/2.50d39ed2.chunk.js.map": "/demosite/static/js/2.50d39ed2.chunk.js.map",
+    "static/js/3.2a166c13.chunk.js": "/demosite/static/js/3.2a166c13.chunk.js",
+    "static/js/3.2a166c13.chunk.js.map": "/demosite/static/js/3.2a166c13.chunk.js.map",
+    "index.html": "/demosite/index.html",
+    "static/css/2.1c2038bd.chunk.css.map": "/demosite/static/css/2.1c2038bd.chunk.css.map",
+    "static/css/main.a1a9e76d.chunk.css.map": "/demosite/static/css/main.a1a9e76d.chunk.css.map",
+    "static/js/2.50d39ed2.chunk.js.LICENSE.txt": "/demosite/static/js/2.50d39ed2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/demosite/static/media/appbg.ae9b4988.svg",
+    "static/media/revsiteLogo.5ffd098d.png": "/demosite/static/media/revsiteLogo.5ffd098d.png",
+    "static/media/successImage.471a1cd3.jpg": "/demosite/static/media/successImage.471a1cd3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2f19479.js",
+    "static/css/2.1c2038bd.chunk.css",
+    "static/js/2.50d39ed2.chunk.js",
+    "static/css/main.a1a9e76d.chunk.css",
+    "static/js/main.ffb2ed1f.chunk.js"
+  ]
+}
